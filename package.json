@@ -1,0 +1,29 @@
+{
+  "name": "lab-node-express-mongo-modeling",
+  "version": "1.0.0",
+  "description": "Making of an Airport by JacqieY",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacqieyuen/lab-node-express-mongo-modeling.git"
+  },
+  "keywords": [
+    "airport"
+  ],
+  "author": "Jacqie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacqieyuen/lab-node-express-mongo-modeling/issues"
+  },
+  "homepage": "https://github.com/jacqieyuen/lab-node-express-mongo-modeling#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-beta6"
+  }
+}
